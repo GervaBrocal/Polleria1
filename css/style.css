@@ -1,4 +1,8 @@
 @import url(_index.scss);
+@import url(_clientes.scss);
+@import url(_contactanos.scss);
+@import url(_nosotros.scss);
+@import url(_products.scss);
 .background {
   background-color: #FFDB58;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
