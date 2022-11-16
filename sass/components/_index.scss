@@ -1,0 +1,27 @@
+.title{
+    background-color: red;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.logo{
+    display: block;
+    margin: 0px auto;
+    border: 2px solid;
+    border-color: red;
+    border-radius: 10px;
+
+}
+.hours{
+    text-decoration:underline;
+    display: flex;
+    justify-content: center;    
+    
+}
+.information{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-weight: bolder;
+}

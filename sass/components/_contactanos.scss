@@ -1,0 +1,26 @@
+.media{
+    display: flex;
+    justify-content: center;
+    justify-items: left;
+    margin: 25px;
+    width: 100px;
+}
+.media:hover{
+    transform: scale(2);
+    transition: all 2s;
+}
+aside{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+.text{
+    display: flex;
+    justify-content:right;
+    margin-right: 70px;
+    font-size: xx-large;
+    text-decoration: underline;
+
+}
