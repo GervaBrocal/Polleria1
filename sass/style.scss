@@ -49,6 +49,12 @@ aside{
     justify-content: center;
     border-radius: 5px;
 }
+.title1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration:underline ;
+}
 .logo{
     display: block;
     margin: 0px auto;
@@ -58,6 +64,7 @@ aside{
 
 }
 .hours{
+    margin-top: 10%;
     text-decoration:underline;
     display: flex;
     justify-content: center;    
